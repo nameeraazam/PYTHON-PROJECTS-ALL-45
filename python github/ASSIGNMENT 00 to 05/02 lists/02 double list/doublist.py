@@ -1,4 +1,3 @@
-#ALWAYS DOUBLE LIST WOULD BE MULTIPLIED BY 2
 def main():
     numbers: list[int] = [1, 2, 3, 4]  # Creates a list of numbers
 
@@ -9,7 +8,6 @@ def main():
     print(numbers)  # This should print the doubled list
 
 
-# There is no need to edit code beyond this point
 
 if __name__ == '__main__':
     main()
