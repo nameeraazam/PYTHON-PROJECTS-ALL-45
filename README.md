@@ -28,25 +28,6 @@ Understanding how data moves within a program is crucial for efficient coding. T
 
 Each assignment in this module includes practical exercises to reinforce your Python skills. Happy coding! 🚀
 
----
-
-## 🎨 Enhancing Terminal Output with ANSI Escape Codes
-
-### What Are ANSI Escape Codes?
-ANSI escape codes are special character sequences that allow you to control text formatting, colors, and cursor movement in terminal displays. These codes work seamlessly on Linux, macOS, and supported Windows terminals.
-
-### Why Use ANSI Escape Codes?
-- Add color to terminal output
-- Apply bold, italic, or underline styles
-- Improve readability and highlight key information
-- Reset formatting when needed
-
-### Code Effect Example Usage in Python Output
-
-```python
-# Reset formatting
-\033[0m  # Reset Text
-print("\033[0mReset Text")  # Output: Reset Text
 
 # Bold text
 \033[1m  # Bold Text
