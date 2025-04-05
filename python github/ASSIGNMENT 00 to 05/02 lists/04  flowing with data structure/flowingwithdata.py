@@ -1,9 +1,6 @@
 def add_three_copies(my_list, data):
     for i in range(3):
         my_list.append(data)
-
-########## No need to edit code past this point
-
 def main():
     message = input("Enter a message to copy: ")
     my_list = []
